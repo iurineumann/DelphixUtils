@@ -6,11 +6,6 @@
 
   <ItemGroup>
     <Content Remove="OpenAPIs\masking.api.json" />
-    <Content Remove="OpenAPIs\swagger-basepath.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="OpenAPIs\swagger-basepath.json" ClassName="MaskingClient" />
   </ItemGroup>
 
   <ItemGroup>
